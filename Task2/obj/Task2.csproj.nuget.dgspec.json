@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dina\\Desktop\\Домашнее задание C#\\Task2\\Task2.csproj": {}
+    "c:\\Users\\Dina\\Desktop\\Домашнее задание C#\\Task2\\Task2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dina\\Desktop\\Домашнее задание C#\\Task2\\Task2.csproj": {
+    "c:\\Users\\Dina\\Desktop\\Домашнее задание C#\\Task2\\Task2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dina\\Desktop\\Домашнее задание C#\\Task2\\Task2.csproj",
+        "projectUniqueName": "c:\\Users\\Dina\\Desktop\\Домашнее задание C#\\Task2\\Task2.csproj",
         "projectName": "Task2",
-        "projectPath": "C:\\Users\\Dina\\Desktop\\Домашнее задание C#\\Task2\\Task2.csproj",
+        "projectPath": "c:\\Users\\Dina\\Desktop\\Домашнее задание C#\\Task2\\Task2.csproj",
         "packagesPath": "C:\\Users\\Dina\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dina\\Desktop\\Домашнее задание C#\\Task2\\obj\\",
+        "outputPath": "c:\\Users\\Dina\\Desktop\\Домашнее задание C#\\Task2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dina\\AppData\\Roaming\\NuGet\\NuGet.Config"
